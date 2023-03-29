@@ -112,10 +112,20 @@ public class HuffmanTree {
     public void decode(){ decode(encodedMessage); }
     private void decode(String message){ //decodes the encoded message
 
-        for(int i = uniqueLetters-1; i > -1; i--){//maybe change to while based off of wills suggestion. will find out why tmr
-            message = message.replace(table[i][1], table[i][0]);//need to change how the message is decoded
+        String temp = "";
+        decodedMessage = "";
+
+        for(int i = 0; i < message.length(); i++){
+            temp = temp + message.charAt(i);
+
+            for(int j = 0; j < table.length; j++){
+                if(temp.equals(table[j][1])){
+                    decodedMessage = decodedMessage + table[j][0];
+                    temp = "";
+                    break;
+                }
+            }
         }
-        decodedMessage = message;
     }
     public String getDecodedMessage() { return decodedMessage; }
 
