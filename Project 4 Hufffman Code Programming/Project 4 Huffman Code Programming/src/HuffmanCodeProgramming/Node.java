@@ -2,6 +2,7 @@ package HuffmanCodeProgramming;
 
 public class Node {
 
+    Node left, right;
     int frequency;
     char letter;
 

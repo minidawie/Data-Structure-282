@@ -12,14 +12,21 @@ public class Test {
 
         HuffmanTree tree = new HuffmanTree(string);
 
+        tree.makeTree();
         tree.displayTree();
-     //   tree.displayTable();
 
-      //  System.out.println(tree.getEncodedMessage());
+        System.out.println();
 
-       // System.out.println(tree.decode());
+        tree.makeTable();
+        tree.displayTable();
 
-        //dont forget to uncomment line 41 in Huffman Tree
+        System.out.println();
+
+        tree.encode();
+        System.out.println("the encoded message is " + tree.getEncodedMessage());
+
+        tree.decode();
+        System.out.println("the decoded message is " + tree.getDecodedMessage());
 
     }
 }

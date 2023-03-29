@@ -9,17 +9,17 @@ public class PriorityQ {
     //NEED TO CHANGE THIS TO MIN TO MAX
     //
     private final int maxSize;
-    private final HuffmanTree[] queArray;
+    private final Node[] queArray;
     private int nItems;
 
     public PriorityQ(int s) { // constructor
 
         maxSize = s;
-        queArray = new HuffmanTree[maxSize];
+        queArray = new Node[maxSize];
         nItems = 0;
     }
 
-    public void insert(HuffmanTree item) { // insert item
+    public void insert(Node item) { // insert item
         int j;
 
         if(nItems==0) { // if no items,
@@ -38,9 +38,9 @@ public class PriorityQ {
         } // end else (nItems > 0)
     } // end insert()
 
-    public HuffmanTree remove() { return queArray[--nItems]; } // remove minimum item
+    public Node remove() { return queArray[--nItems]; } // remove minimum item
 
-    public HuffmanTree peekMin() { return queArray[nItems-1]; } // peek at minimum item
+    public Node peekMin() { return queArray[nItems-1]; } // peek at minimum item
 
     public boolean isEmpty() { return (nItems==0); } // true if queue is empty
 
