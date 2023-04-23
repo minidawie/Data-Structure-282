@@ -140,7 +140,7 @@ public class HuffmanTree {
             displayTree(tree.right);
         }
         if(tree.left == null && tree.right == null) {
-            System.out.println("    " + tree.letter + "         " + tree.frequency);
+            System.out.println("    " + tree.letter + "             " + tree.frequency);
         }
     } //displays the tree (shows the character and the frequency
 
