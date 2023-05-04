@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7a671995-d6cd-4c32-94ed-79362c24c7ae" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Project 1 Array Programming.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project 4 Hufffman Code Programming/Project 4 Huffman Code Programming/out/production/Project 4 Huffman Code Programming/HuffmanCodeProgramming/HuffmanTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Project 4 Hufffman Code Programming/Project 4 Huffman Code Programming/out/production/Project 4 Huffman Code Programming/HuffmanCodeProgramming/HuffmanTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project 4 Hufffman Code Programming/Project 4 Huffman Code Programming/out/production/Project 4 Huffman Code Programming/HuffmanCodeProgramming/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Project 4 Hufffman Code Programming/Project 4 Huffman Code Programming/out/production/Project 4 Huffman Code Programming/HuffmanCodeProgramming/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project 4 Hufffman Code Programming/Project 4 Huffman Code Programming/src/HuffmanCodeProgramming/HuffmanTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project 4 Hufffman Code Programming/Project 4 Huffman Code Programming/src/HuffmanCodeProgramming/HuffmanTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project 4 Hufffman Code Programming/Project 4 Huffman Code Programming/src/HuffmanCodeProgramming/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project 4 Hufffman Code Programming/Project 4 Huffman Code Programming/src/HuffmanCodeProgramming/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project 5 2-3-4 Programming/out/production/Project 5 2-3-4 Programming/TwoThreeFourTreeProgramming/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Project 5 2-3-4 Programming/out/production/Project 5 2-3-4 Programming/TwoThreeFourTreeProgramming/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project 5 2-3-4 Programming/out/production/Project 5 2-3-4 Programming/TwoThreeFourTreeProgramming/Tree234.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Project 5 2-3-4 Programming/out/production/Project 5 2-3-4 Programming/TwoThreeFourTreeProgramming/Tree234.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project 5 2-3-4 Programming/out/production/Project 5 2-3-4 Programming/TwoThreeFourTreeProgramming/Tree234Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Project 5 2-3-4 Programming/out/production/Project 5 2-3-4 Programming/TwoThreeFourTreeProgramming/Tree234Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +17,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/ArrayProgramming/TestClass.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2OnniU8jlNjiFDpBmsWVN6fFmBD" />
   <component name="ProjectViewState">
@@ -26,6 +31,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "settings.sync",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -38,6 +48,14 @@
       <option name="presentableId" value="Default" />
       <updated>1682205342935</updated>
       <workItem from="1682205344104" duration="34000" />
+      <workItem from="1682214448510" duration="17000" />
+      <workItem from="1682214664263" duration="18000" />
+      <workItem from="1682214688950" duration="14000" />
+      <workItem from="1682214710846" duration="29000" />
+      <workItem from="1682214746645" duration="32000" />
+      <workItem from="1682214826152" duration="250000" />
+      <workItem from="1682215093853" duration="38000" />
+      <workItem from="1682908684505" duration="536000" />
     </task>
     <servers />
   </component>
